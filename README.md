@@ -4,6 +4,7 @@
 - [ ] Business / One Person Business
 - [ ] Financial Free
 - [ ] Travel
+- [ ] Languages
 - [ ] Full Stack
 - [ ] Web3 Smart Contracts
 - [ ] Art
