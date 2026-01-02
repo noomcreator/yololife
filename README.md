@@ -1,0 +1,19 @@
+# Yololife
+- [ ] Health
+- [ ] Multi Income
+- [ ] Business / One Person Business
+- [ ] Financial Free
+- [ ] Travel
+- [ ] Full Stack
+- [ ] Web3 Smart Contracts
+- [ ] Art
+- [ ] Blender 3D
+- [ ] Digital Products
+- [ ] Content Creator
+- [ ] Data Analysis
+- [ ] AI / ML / DL / LLM / Ai Agent / Agentic Ai
+- [ ] Cyber Security
+- [ ] IoT
+- [ ] SaaS
+- [ ] LifeOS
+  
