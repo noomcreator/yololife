@@ -17,4 +17,6 @@
 - [ ] IoT
 - [ ] SaaS
 - [ ] LifeOS
+- [ ] Quant Trader / Developer
+- [ ] Creative / Design / UX/UI
   
